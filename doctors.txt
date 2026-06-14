@@ -1,0 +1,2 @@
+1,Dr. Sara Khan,Cardiology,03111234567,doc456,1500.00
+2,Doctor Pamp,Mbbs graduate,03330032123,farwa123,3000.00
